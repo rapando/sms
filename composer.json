@@ -1,0 +1,13 @@
+{
+    "name": "sam/html",
+    "require": {
+        "africastalking/africastalking": "^2.2",
+        "vlucas/phpdotenv": "^3.3"
+    },
+    "authors": [
+        {
+            "name": "Rapando",
+            "email": "samson.rapando@betika.com"
+        }
+    ]
+}
